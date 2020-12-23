@@ -1,4 +1,4 @@
-# flutter_transparent_pointer
+# transparent_pointer
 
 TransparentPointer is a widget that is invisible for its parent to hit testing,
 but still allows its subtree to receive pointer events. This is useful to allow
