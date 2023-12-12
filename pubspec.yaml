@@ -4,8 +4,8 @@ version: 0.1.0
 homepage: https://github.com/spkersten/flutter_transparent_pointer
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
-  flutter: ">=1.17.0"
+  sdk: ">=2.12.0 <=3.2.3"
+  flutter: ">=3.0.2"
 
 dependencies:
   flutter:
