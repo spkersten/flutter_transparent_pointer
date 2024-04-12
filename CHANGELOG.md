@@ -1,3 +1,7 @@
+## 1.0.1
+
+* Support Flutter 3
+
 ## 1.0.0
 
 * Supporting null safety
